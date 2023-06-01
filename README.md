@@ -1,1 +1,2 @@
 # Alarm-Clock-using-Python-Tkinter
+This project is an alarm clock implemented using Python and the Tkinter library. It allows users to set alarms and receive notifications at the specified time. The graphical user interface (GUI) provided by Tkinter provides a user-friendly experience, making it easy to interact with the alarm clock. The user can set the time at which they want the alarm to ring and can also choose which song theme they want it to be played at the time set. The user can also set multiple alarms.
